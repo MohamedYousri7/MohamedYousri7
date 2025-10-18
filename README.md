@@ -3,7 +3,8 @@
 # Mohamed Yousri Ibrahim
 ### Data Scientist | Machine Learning Engineer | Coding Instructor
 
-<img src="https://github.com/user-attachments/assets/934ec3d7-d0d9-4f7f-a308-d83db424cede" alt="Coding Illustration" width="300" />
+![dev-working_rounded](https://github.com/user-attachments/assets/e49f121d-1108-4cd2-9790-e872a13e6d58)
+
 
 [![Email](https://img.shields.io/badge/Email-mohamed.yousri1567%40gmail.com-red?style=flat&logo=gmail)](mailto:mohamed.yousri1567@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Yousri-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamed-yousri/)
@@ -42,14 +43,24 @@ Data Scientist, Machine Learning Engineer, and Coding Instructor with expertise 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
+### **Data Visualization & BI Tools**
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 ### **Computer Vision & NLP**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=ultrasignup&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-FF6B6B?style=flat&logo=roboflow&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-000000?style=flat&logo=tesseract&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-3776AB?style=flat&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat&logo=python&logoColor=white)
 
-### **Databases & Tools**
+### **Databases & Data Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
@@ -62,6 +73,7 @@ Data Scientist, Machine Learning Engineer, and Coding Instructor with expertise 
 - **NLP**: Sentiment analysis, text processing, and language models
 - **Teaching**: Mentoring students in coding, AI, and computer science fundamentals
 - **Full-stack AI**: Developing end-to-end AI solutions from data to deployment
+- **Business Intelligence**: Creating dashboards and reports for data-driven decision making
 
 ---
 
