@@ -1,20 +1,23 @@
 <div align="center">
 
-# Mohamed Yousri Ibrahim
+# ✨Mohamed Yousri Ibrahim
 ### Data Scientist | Machine Learning Engineer | Coding Instructor
 
-![dev-working_rounded](https://github.com/user-attachments/assets/e49f121d-1108-4cd2-9790-e872a13e6d58)
-
+<img src="https://github.com/user-attachments/assets/e49f121d-1108-4cd2-9790-e872a13e6d58" alt="AI Developer" width="300" />
 
 [![Email](https://img.shields.io/badge/Email-mohamed.yousri1567%40gmail.com-red?style=flat&logo=gmail)](mailto:mohamed.yousri1567@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Yousri-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamed-yousri/)
 [![Phone](https://img.shields.io/badge/Phone-%2B201099964466-green?style=flat&logo=whatsapp)](tel:+201099964466)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedYousri7&label=👾%20PROFILE%20VIEWS&color=E0234E&style=for-the-badge" alt="profile views"/>
+</p>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💫👨‍💻 About Me
 
 Data Scientist, Machine Learning Engineer, and Coding Instructor with expertise in data analysis, deep learning, and predictive modeling. Skilled in building and deploying AI solutions using Python, SQL, and modern ML frameworks. Experienced in Computer Vision, NLP, and data visualization, with a strong background in teaching and mentoring students in coding and AI.
 
