@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨Mohamed Yousri Ibrahim
+# ✨Mohamed Yousri
 ### Data Scientist | Machine Learning Engineer | Coding Instructor
 
 <img src="https://github.com/user-attachments/assets/e49f121d-1108-4cd2-9790-e872a13e6d58" alt="AI Developer" width="300" />
