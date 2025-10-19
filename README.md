@@ -99,6 +99,4 @@ I'm always open to discussing data science, machine learning, teaching opportuni
 
 ### 🌟 "Passionate about leveraging data-driven insights and AI to solve real-world problems and inspire innovation."
 
-[![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&label=PROFILE+VIEWS)](https://github.com/yourusername)
-
 </div>
