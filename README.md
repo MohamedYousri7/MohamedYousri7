@@ -84,8 +84,8 @@ Data Scientist, Machine Learning Engineer, and Coding Instructor with expertise 
 
 <div align="center">
   
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedYousri7&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYousri7&layout=compact&theme=radical&hide_title=true)
 
 </div>
 
