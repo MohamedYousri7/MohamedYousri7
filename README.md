@@ -80,17 +80,6 @@ Data Scientist, Machine Learning Engineer, and Coding Instructor with expertise 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedYousri7&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYousri7&layout=compact&theme=radical&hide_title=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing data science, machine learning, teaching opportunities, or potential collaborations.
