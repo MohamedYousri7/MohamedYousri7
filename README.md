@@ -6,7 +6,7 @@
 <img src="https://github.com/user-attachments/assets/e49f121d-1108-4cd2-9790-e872a13e6d58" alt="AI Developer" width="300" />
 
 [![Email](https://img.shields.io/badge/Email-mohamed.yousri1567%40gmail.com-red?style=flat&logo=gmail)](mailto:mohamed.yousri1567@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Yousri-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamed-yousri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Yousri-blue?style=flat&logo=linkedin)](www.linkedin.com/in/mohamed--yousri)
 [![Phone](https://img.shields.io/badge/Phone-%2B201099964466-green?style=flat&logo=whatsapp)](tel:+201099964466)
 
 <p align="center">
